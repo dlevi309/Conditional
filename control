@@ -1,0 +1,9 @@
+Package: daniel.conditional
+Name: Conditional
+Author: daniel
+Description: Allows restricting which apps get WiFi + Cellular
+Depends: mobilesubstrate
+Maintainer: daniel
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
